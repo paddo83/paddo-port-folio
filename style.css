@@ -43,6 +43,7 @@
     --z-fixed: 100;
     --z-model: 100;
 
+
     @media screen and (min-width: 968px) {
         :root {
             --big-font-size: 3rem;
@@ -1184,7 +1185,7 @@ img {
         right: -3.5rem;
     }
 
-    .swiper-container-horizontal>.swiper-pagination-bullets {
+    .swiper-container-horizontal >.swiper-pagination-bullets {
         bottom: -4.5rem;
     }
 }
